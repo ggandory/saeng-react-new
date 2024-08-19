@@ -1,8 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
 
-//테스트
-
 function Article(e) {
   return (
     <article>
