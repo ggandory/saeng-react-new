@@ -76,7 +76,7 @@ function Create(props) {
           <textarea name="body" placeholder="body"></textarea>
         </p>
         <p>
-          <input type="submit" value="Create"></input>{" "}
+          <imput type="submit" value="Create"></imput>{" "}
         </p>
       </form>
     </article>
